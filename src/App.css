@@ -1,0 +1,23 @@
+.dummySize{
+  margin: 3%;
+}
+
+tr{
+  text-align: center;
+}
+
+.deleteBtn{
+  background-color: g;
+}
+
+.deleteBtn:hover{
+  background-color: whitesmoke;
+}
+
+th{
+  background-color: rgba(255, 166, 0, 0.505);;
+}
+
+.dummyIdColor{
+  background-color: rgba(255, 166, 0, 0.505);
+}
